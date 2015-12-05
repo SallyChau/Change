@@ -1,7 +1,7 @@
 # COMP1720 Art and Interaction in New Media
-Australian National University, 2nd term 2014
+_Australian National University, 2nd term 2014_
 
-Course Convener: Dr Henry Gardner
+_Course Convener: Dr Henry Gardner_
 
 A project submission by Sally Chau
 
